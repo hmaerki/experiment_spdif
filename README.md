@@ -1,2 +1,2 @@
 # experiment_spdif
-Learning about i2c and spdif
+Learning about I2S and SPDIF
